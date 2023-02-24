@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/47-projects-react-task06-phonebook/static/css/main.6ffac5be.css",
+    "main.js": "/47-projects-react-task06-phonebook/static/js/main.2ddcee2c.js",
+    "index.html": "/47-projects-react-task06-phonebook/index.html",
+    "main.6ffac5be.css.map": "/47-projects-react-task06-phonebook/static/css/main.6ffac5be.css.map",
+    "main.2ddcee2c.js.map": "/47-projects-react-task06-phonebook/static/js/main.2ddcee2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ffac5be.css",
+    "static/js/main.2ddcee2c.js"
+  ]
+}
